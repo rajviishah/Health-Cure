@@ -51,6 +51,8 @@ numerous frameworks and principles facilitate summation and accomplish adequate 
 - Used custom made CNN architecture for this detection.
 
 - Accuracy achieved was around 93%.
+![Screenshot (58)](https://user-images.githubusercontent.com/50801491/169676543-2e5c7e17-3023-4230-907f-2f1dd1a97027.png)
+
 
 
 <h2>Brain Tumor Detection:</h2>
