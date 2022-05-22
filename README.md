@@ -6,12 +6,19 @@
 
 <h3>Lifecycle of the project</h3>
 - Data Collection
+
 - Data Preprocessing
+
 - Data Splitting
+
 - Data Modeling
+
 - Data Complilation
+
 - Model Performance
+
 - Building the application with UI
+
 - Running the application
 
 <h2>About the project</h2>
@@ -21,15 +28,22 @@ numerous frameworks and principles facilitate summation and accomplish adequate 
 
 <h2>7 Diseases Detection:</h2>
 1. Covid-19 detection
+
 2. Brain Tumour detection
+
 3. Breast Cancer detection
+
 4. Alzheimer detection
+
 5. Diabetes detection
+
 6. Pneumonia detection
+
 7. Heart disease detection
 
 <h2>Covid-19 detection:</h2>
 - Used custom made CNN architecture for this detection.
+
 - Accuracy achieved was around 93%.
 
 <h2>Brain Tumor Detection:</h2>
