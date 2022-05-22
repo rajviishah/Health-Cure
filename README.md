@@ -28,6 +28,8 @@ Healthcare is shaping up in front of our eyes with advances in digital healthcar
 to accomplish presentation levels essential for adaptable "accomplishment". Enlargement in health care data struggles with the lack of well-organized mechanisms for integrating and reconciling these data ahead of their current silos. However,
 numerous frameworks and principles facilitate summation and accomplish adequate data quantity for AI. 
 
+![Screenshot (57)](https://user-images.githubusercontent.com/50801491/169676515-84622162-12d6-4a61-8335-0b8abff4aa24.png)
+
 <h2>7 Diseases Detection:</h2>
 
 1. Covid-19 detection
