@@ -110,9 +110,11 @@ numerous frameworks and principles facilitate summation and accomplish adequate 
 
 ![Screenshot (67)](https://user-images.githubusercontent.com/50801491/169676588-b1c76979-b4b8-4b3f-8102-09a2f7e29c53.png)
 
+![Screenshot (69)](https://user-images.githubusercontent.com/50801491/169676593-9bc6c1af-7e67-4b30-a029-ef0b65f5af3b.png)
+
 ![Screenshot (68)](https://user-images.githubusercontent.com/50801491/169676592-5594d9aa-a5fb-42eb-9c33-a7f945a434a8.png)
 
-![Screenshot (69)](https://user-images.githubusercontent.com/50801491/169676593-9bc6c1af-7e67-4b30-a029-ef0b65f5af3b.png)
+
 
 
 
