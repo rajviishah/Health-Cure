@@ -90,17 +90,17 @@ numerous frameworks and principles facilitate summation and accomplish adequate 
 
 <h2>Results</h2>
 
-![image](https://user-images.githubusercontent.com/50801491/169676325-affc8b6e-4833-42d4-8953-0e7eb03ad753.png)
+![image](https://user-images.githubusercontent.com/50801491/169676447-21c1aa1b-0eb8-444c-9864-e22caedf4566.png)
 
-![image](https://user-images.githubusercontent.com/50801491/169676328-1fedfcf1-17ff-48d6-9922-af69f4b830c0.png)
+![image](https://user-images.githubusercontent.com/50801491/169676443-0ae8fb75-66fd-44c3-ba9d-21e71f2646e6.png)
 
-![image](https://user-images.githubusercontent.com/50801491/169676331-6c1bef95-7432-4617-a472-c1f3d7c3087e.png)
+![image](https://user-images.githubusercontent.com/50801491/169676438-ed03aec8-c75d-4cc1-90e9-60e3ebe0de2d.png)
 
-![image](https://user-images.githubusercontent.com/50801491/169676334-e3386eaa-86bb-49de-a350-4dde5d7fc2a5.png)
+![image](https://user-images.githubusercontent.com/50801491/169676436-4beade94-bc08-4b7e-9702-3507b1940f0e.png)
 
-![image](https://user-images.githubusercontent.com/50801491/169676339-b874993f-6276-44d1-8134-93e176bcf06b.png)
+![image](https://user-images.githubusercontent.com/50801491/169676429-979a33a4-0e7d-435c-979a-a8d38af0a322.png)
 
-![image](https://user-images.githubusercontent.com/50801491/169676341-3ab45bba-88f1-40fe-9d94-c3bb40da6caa.png)
+![image](https://user-images.githubusercontent.com/50801491/169676422-60a35323-2569-4367-bbf8-a3cf1366de3c.png)
 
 
 
