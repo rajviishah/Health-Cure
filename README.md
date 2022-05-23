@@ -1,8 +1,8 @@
 <h1>HealthCure</h1>
 
 - Developed end-to-end MLOPS Deep Learning Algorithms
-- Presentation Link:
-- Video Link: 
+- Presentation Link: https://docs.google.com/presentation/d/1UmZzbobwm62uXsVo18uQozos9cIzDSYpmiFAEgDkoBQ/edit?usp=sharing
+- Video Link: https://drive.google.com/drive/folders/17sFvg3o14BhAWdbMS1HoGoBpJdsq3m9k?usp=sharing
 
 
 <h3>Lifecycle of the project</h3>
